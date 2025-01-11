@@ -1,0 +1,29 @@
+[
+    {
+        "TaillePatient" : "1.70",
+        "PoidsPatient" : "75",
+        "TensionSystolique" : "24",
+        "TensionDiastolique" : "24",
+        "Temperature" : "27",
+        "PerimetrePatient" : "30",
+        "patient" : "623f9c0e8f49abeef644cd3c"
+    },
+    {
+        "TaillePatient" : "1.70",
+        "PoidsPatient" : "55",
+        "TensionSystolique" : "24",
+        "TensionDiastolique" : "24",
+        "Temperature" : "30",
+        "PerimetrePatient" : "40",
+        "patient" : "6238a487111443cb0e4a5b37"
+    },
+    {
+        "TaillePatient" : "1.70",
+        "PoidsPatient" : "65",
+        "TensionSystolique" : "24",
+        "TensionDiastolique" : "24",
+        "Temperature" : "28",
+        "PerimetrePatient" : "35",
+        "patient" : "6238a487111443cb0e4a5b36"
+    }
+]
